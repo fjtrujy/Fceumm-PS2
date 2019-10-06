@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include <stdlib.h>
+#include <fileio.h>
 #include <string.h>
 #include <libpad.h>
 #include <fileXio_rpc.h>
